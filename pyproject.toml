@@ -1,0 +1,6 @@
+[project]
+name = "zephyr-note-backend"
+version = "0.1.0"
+description = "个人笔记项目后端"
+requires-python = ">=3.12"
+dependencies = []
